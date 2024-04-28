@@ -23,8 +23,8 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 <hr>
 
 ```python
-import time                                            # Developed By: MAHESH RAJ PUROHIT.J
-class Game:                                            # Register No : 212222240058
+import time                                            # Developed By: Jivan Karthec B S
+class Game:                                            # Register No : 212222100017
     def __init__(self):
         self.initialize_game()
     def initialize_game(self):
